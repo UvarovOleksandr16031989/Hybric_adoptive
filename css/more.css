@@ -1,0 +1,21 @@
+.section_more{
+	padding: 121px 0 119px 0;
+}
+.more_title {
+	color: #4e4e4e;
+	text-align: center;
+}
+.more_content{
+	color: #737070;
+	font-family: 'Conv_Myriad-Pro';
+	font-size: 25px;
+	padding: 18px 0 0 0;
+	text-align: center;
+}
+.more_potfolio{
+	padding: 75px 0 0 0;
+	text-align: center;
+}
+.more_img{
+	width: auto;
+}
