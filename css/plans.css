@@ -1,5 +1,5 @@
 .section_plans{
-	padding: 117px 0 111px 0;
+	padding: 11.9% 0 11.3% 0;
 	text-align: center;
 }
 .plans_title{
@@ -12,7 +12,7 @@
 	color: #737070;
 	font-family: 'Conv_Myriad-Pro';
 	font-size: 25px;
-	padding: 0 0 93px 0;
+	padding: 0 0 9.4% 0;
 }
 .plans_offer{
 	display: inline-block;
@@ -21,7 +21,7 @@
 	margin: 0 1% 40px ;
 	text-align: center;
     word-spacing: normal;
-    min-width: 220px;
+    min-width: 210px;
 	
 }
 .plans_offer_title{
