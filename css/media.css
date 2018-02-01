@@ -17,7 +17,6 @@
 .health_calories,.health_fat,.health_water,.health_protein{
 	position: static;	
 	margin: 0;
-
 }
 .health_calories::after,
 .health_fat::after,
