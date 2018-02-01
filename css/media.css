@@ -38,7 +38,7 @@
 	.header_menu{
 		visibility: hidden;
 		opacity: 0;
-		transition: all 3s ease;
+		transition: all 1s ease;
 		position: absolute;
 		margin: 0 auto;
 		right: 0;
