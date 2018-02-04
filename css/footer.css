@@ -2,11 +2,13 @@
 	padding: 9.2% 0 10.4% 0;
 }
 .footer_link{
-	
 	color: #747373;
 	font-family: 'Conv_Myriad-Pro-Semibold';
 	font-size: 18px;
 	margin-right: 34px;
+}
+.footer_link:hover{
+	text-decoration: underline;
 }
 .footer_reserv{
 	margin: 18px 0 0 0;
@@ -27,6 +29,7 @@
 	background-color: #71ae5a;
 	text-align: center;
 	border-radius: 30px;
+
 }
 .button_link_img{
 	width: auto;

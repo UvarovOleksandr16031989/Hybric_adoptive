@@ -59,6 +59,11 @@
 	background-color: #71ae5a;
 	border-radius: 13px;
 	margin:  0 0 41px 0;
+
+}
+.plans_offer_batton:hover{
+	background: radial-gradient(at center bottom, rgba(113, 174, 90, 1.0), rgba(113, 174, 90, .6));
+
 }
 .plans_price{
 	word-spacing: -4px;
